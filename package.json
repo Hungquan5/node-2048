@@ -1,0 +1,1 @@
+{"name": "node-2048", "version": "1.0.0", "description": "Simple Node.js implementation of the 2048 game for testing Azure pipelines.", "main": "index.js", "scripts": {"start": "node src/index.js", "test": "node test/test.js"}, "keywords": ["2048", "nodejs", "azure-pipeline", "game"], "author": "", "license": "MIT"}
